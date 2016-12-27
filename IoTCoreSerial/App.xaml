@@ -1,0 +1,10 @@
+﻿<Application
+    x:Class="IoTCoreSerial.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:classes="using:IoTCoreSerial.Classes"
+    RequestedTheme="Light">
+    <Application.Resources>
+        <classes:ESPViewModel x:Key="eSPViewModel"/>
+    </Application.Resources>
+</Application>

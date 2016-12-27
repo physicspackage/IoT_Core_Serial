@@ -250,3 +250,16 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/IoTCoreSerial/Classes/ComPortViewModel.cs
+/IoTCoreSerial/Classes/TestResult.cs
+/IoTCoreSerial/Classes/StateMachineAsync.cs
+/IoTCoreSerial/Classes/MeWattState.cs
+/IoTCoreSerial/Classes/MeterViewModel.cs
+/IoTCoreSerial/Classes/MainViewModel.cs
+/IoTCoreSerial/Utilities/AttachedPropertyAssociatedObject.cs
+/IoTCoreSerial/Utilities/AverageValue.cs
+/IoTCoreSerial/Utilities/GenericAttachedProperty.cs
+/IoTCoreSerial/Utilities/Statistics.cs
+/IoTCoreSerial/Utilities/StringFormatValueConverter.cs
+/IoTCoreSerial/Utilities/TextBoxBindingExpressionDelay.cs
+/IoTCoreSerial/Utilities/VisibilityConverter.cs
